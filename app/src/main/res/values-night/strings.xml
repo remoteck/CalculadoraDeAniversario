@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Calculadora de Aniversário</string>
+  <string name="calcule_sua">CALCULE SUA</string>
+  <string name="idade">IDADE</string>
+  <string name="em_minutos">EM MINUTOS</string>
+  <string name="btn_date">SELECIONE A DATA</string>
+  <string name="data_selecionada">Data Selecionada</string>
+  <string name="data_em_minutos">Idade em Minutos</string>
+</resources>
